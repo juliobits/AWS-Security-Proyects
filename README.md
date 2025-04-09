@@ -8,9 +8,9 @@ This repository aims to demonstrate my skills and understanding of AWS security 
 
 Here's a brief overview of the projects you'll find in this repository:
 
-* **[Project 1 Name](path/to/project1):** [Brief description of the project - e.g., "Automated deployment of a secure VPC with Network Firewall and GuardDuty."]
-    * Key Technologies: [List technologies used - e.g., "Terraform, AWS Network Firewall, AWS GuardDuty"]
-    * Highlights: [Mention key features or accomplishments - e.g., "Fully automated deployment, centralized security controls."]
+* **Landing Zone Accelerator solution:** Automated deployment and configuration of the AWS Landing Zone Accelerator, a solution that helps you set up a secure, multi-account AWS environment based on AWS best practices. It provides a comprehensive framework for governance, security, and networking.
+    * Key Technologies: AWS Landing Zone Accelerator, CloudFormation, AWS Organizations, IAM
+    * Highlights: Fully automated deployment of a secure foundation, adherence to AWS best practices, centralized governance, streamlined multi-account management.
 * **[Project 2 Name](path/to/project2):** [Brief description of the project - e.g., "Implementation of automated security hardening for EC2 instances using AWS Systems Manager."]
     * Key Technologies: [List technologies used - e.g., "AWS Systems Manager, SSM Documents, IAM"]
     * Highlights: [Mention key features or accomplishments - e.g., "Scalable security baseline enforcement, automated patching."]
@@ -45,6 +45,8 @@ This repository leverages a variety of AWS services and tools, including but not
 * AWS Lambda
 * Amazon Simple Storage Service (S3)
 * Amazon CloudWatch Logs
+* AWS Organizations
+* AWS Landing Zone Accelerator
 * Infrastructure-as-Code (IaC) tools like Terraform and/or AWS CloudFormation (specific tools will be mentioned in individual project READMEs)
 * Scripting languages such as Python and Bash (as applicable)
 
