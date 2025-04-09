@@ -8,7 +8,7 @@ This repository aims to demonstrate my skills and understanding of AWS security 
 
 Here's a brief overview of the projects you'll find in this repository:
 
-* **Landing Zone Accelerator solution:** Automated deployment and configuration of the AWS Landing Zone Accelerator, a solution that helps you set up a secure, multi-account AWS environment based on AWS best practices. It provides a comprehensive framework for governance, security, and networking.
+* **[Landing Zone Accelerator solution:** Automated deployment and configuration of the AWS Landing Zone Accelerator, a solution that helps you set up a secure, multi-account AWS environment based on AWS best practices. It provides a comprehensive framework for governance, security, and networking.
     * Key Technologies: AWS Landing Zone Accelerator, CloudFormation, AWS Organizations, IAM
     * Highlights: Fully automated deployment of a secure foundation, adherence to AWS best practices, centralized governance, streamlined multi-account management.
 * **MAP (Migration Acceleration Program from AWS):** Implementation of security best practices and automation within the context of an AWS Migration Acceleration Program (MAP) engagement. This project focuses on ensuring a secure and compliant migration of workloads to AWS, leveraging AWS security services and automation tools throughout the migration lifecycle.
