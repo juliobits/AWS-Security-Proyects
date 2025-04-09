@@ -58,6 +58,6 @@ The projects and scripts in this repository are provided for educational and dem
 
 ## Contact
 
-You can connect with me on [Your LinkedIn Profile URL] or reach out via [Your Email Address].
+You can connect with me on https://www.linkedin.com/in/juliocesarqq/ or reach out via juliocesarqq@hotmail.com
 
 Thank you for visiting my AWS Security Projects repository! I hope you find the content valuable.
