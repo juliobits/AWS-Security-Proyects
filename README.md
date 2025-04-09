@@ -14,7 +14,6 @@ Here's a brief overview of the projects you'll find in this repository:
 * **[Migration Acceleration Program from AWS (MAP)](MigrationAccelerationProgram):** Implementation of security best practices and automation within the context of an AWS Migration Acceleration Program (MAP) engagement. This project focuses on ensuring a secure and compliant migration of workloads to AWS, leveraging AWS security services and automation tools throughout the migration lifecycle.
     * Key Technologies: AWS Migration Acceleration Program (MAP) framework, AWS Security Hub, AWS Config, AWS CloudFormation, IAM
     * Highlights: Secure migration planning and execution, implementation of security controls during migration, leveraging AWS best practices for migrated workloads.
-    * Highlights: [Mention key features or accomplishments - e.g., "Scalable security baseline enforcement, automated patching."]
 * **[Project 3 Name](path/to/project3):** [Brief description of the project - e.g., "Creation of AWS Config rules and remediation actions for security compliance."]
     * Key Technologies: [List technologies used - e.g., "AWS Config, Lambda, IAM"]
     * Highlights: [Mention key features or accomplishments - e.g., "Continuous compliance monitoring, automated issue resolution."]
