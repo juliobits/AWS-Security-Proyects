@@ -8,10 +8,10 @@ This repository aims to demonstrate my skills and understanding of AWS security 
 
 Here's a brief overview of the projects you'll find in this repository:
 
-* **[Landing Zone Accelerator solution](LandingZoneAccelerator):** Automated deployment and configuration of the AWS Landing Zone Accelerator, a solution that helps you set up a secure, multi-account AWS environment based on AWS best practices. It provides a comprehensive framework for governance, security, and networking.
+* **[Landing Zone Accelerator solution (LZA) ](LandingZoneAccelerator):** Automated deployment and configuration of the AWS Landing Zone Accelerator, a solution that helps you set up a secure, multi-account AWS environment based on AWS best practices. It provides a comprehensive framework for governance, security, and networking.
     * Key Technologies: AWS Landing Zone Accelerator, CloudFormation, AWS Organizations, IAM
     * Highlights: Fully automated deployment of a secure foundation, adherence to AWS best practices, centralized governance, streamlined multi-account management.
-* **MAP [Migration Acceleration Program from AWS](MigrationAccelerationProgram):** Implementation of security best practices and automation within the context of an AWS Migration Acceleration Program (MAP) engagement. This project focuses on ensuring a secure and compliant migration of workloads to AWS, leveraging AWS security services and automation tools throughout the migration lifecycle.
+* **[Migration Acceleration Program from AWS (MAP)](MigrationAccelerationProgram):** Implementation of security best practices and automation within the context of an AWS Migration Acceleration Program (MAP) engagement. This project focuses on ensuring a secure and compliant migration of workloads to AWS, leveraging AWS security services and automation tools throughout the migration lifecycle.
     * Key Technologies: AWS Migration Acceleration Program (MAP) framework, AWS Security Hub, AWS Config, AWS CloudFormation, IAM
     * Highlights: Secure migration planning and execution, implementation of security controls during migration, leveraging AWS best practices for migrated workloads.
     * Highlights: [Mention key features or accomplishments - e.g., "Scalable security baseline enforcement, automated patching."]
