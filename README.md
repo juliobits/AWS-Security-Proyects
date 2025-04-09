@@ -1,5 +1,3 @@
-# AWS-Security-Proyects
-
 # AWS Security Projects Repository
 
 Welcome to my AWS Security Projects repository! This space showcases various projects and scripts I've developed to enhance and automate security within the Amazon Web Services ecosystem.
