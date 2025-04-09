@@ -17,10 +17,10 @@ Here's a brief overview of the projects you'll find in this repository:
 * **[Perimeter Security with WAF and Network Firewall](PerimeterSecurity):** Implementation of a robust perimeter security strategy leveraging AWS WAF (Web Application Firewall) to protect web applications from common web exploits and AWS Network Firewall to control network traffic at the VPC level, establishing clear boundaries and security rules for inbound and outbound traffic.
     * Key Technologies: AWS WAF, AWS Network Firewall, AWS CloudFormation, AWS Firewall Manager (optional), IAM
     * Highlights: Protection against OWASP Top 10 vulnerabilities, granular control over network traffic, centralized management of firewall rules (with Firewall Manager).
-* **[Security Baseline](SecurityBaseline):** [Brief description of the project - e.g., "Deployment of a centralized logging solution using AWS Security Hub, CloudWatch Logs, and S3."]
-    * Key Technologies: [List technologies used - e.g., "AWS Security Hub, CloudWatch Logs, S3, IAM"]
-    * Highlights: [Mention key features or accomplishments - e.g., "Aggregated security findings, centralized log analysis."]
-* **[Add more projects as needed following the same format]**
+* **[Security Baseline](SecurityBaseline):** Establishment of a comprehensive security baseline across an AWS Organization, focusing on implementing foundational security controls as outlined in the provided checklist. This project involves deploying and configuring services like CentralView for inventory visibility, enabling Control Tower controls, enforcing IAM password policies, enabling MFA, centralizing security events, and activating security monitoring services like Security Hub, GuardDuty, IAM Access Analyzer, and Inspector.
+    * Key Technologies: AWS Organizations, AWS Control Tower, AWS CentralView, IAM, AWS Config, AWS Security Hub, Amazon GuardDuty, AWS IAM Access Analyzer, Amazon Inspector, AWS Macie (as applicable), CloudFormation/Terraform (for automation).
+    * Highlights: Centralized security posture management, enforcement of organizational security policies, enhanced visibility and threat detection across accounts, automated compliance checks.
+
 
 ## Getting Started
 
